@@ -1,8 +1,13 @@
 Лекция композ:
+
 https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FNg6MvFe%2BW5j82svZBBw09ounATBi2KpKrI0L3TMIXSALrTOdzVd8PiRqBQF5W80Vq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%2F05-%20Docker%202-3%20(net%2Bcompose).pdf&name=05-%20Docker%202-3%20(net%2Bcompose).pdf&nosw=1 
+
 Лаба композ:
+
 https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FNg6MvFe%2BW5j82svZBBw09ounATBi2KpKrI0L3TMIXSALrTOdzVd8PiRqBQF5W80Vq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8%2F08%20-%20Docker_5.docx&name=08%20-%20Docker_5.docx
+
 Вся теория и лабы:
+
 https://vk.cc/cPCso8
  
 ##ОСНОВНЫЕ КОМАНДЫ
