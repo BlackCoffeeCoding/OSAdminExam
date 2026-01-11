@@ -9,6 +9,7 @@ https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FNg6MvFe%2BW5j82svZBB
 Вся теория и лабы:
 
 https://vk.cc/cPCso8
+
  
 ##ОСНОВНЫЕ КОМАНДЫ
 ```bash
